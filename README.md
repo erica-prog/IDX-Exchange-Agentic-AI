@@ -424,15 +424,13 @@ skills/
   idx-property-search/scripts/run.sh
 test/
   week1.test.ts  week2.test.ts  week3.test.ts  week4.test.ts
-document/
-  AI_Agentic_Engineer_Training.pdf
 db/
   rets_property.sql  california_sold.sql  rets_openhouse.sql
 ```
 
 ## Implementation notes
 
-1. The handbook requirements and database field mapping were extracted first.
+1. The database field mappings were extracted first.
 2. Week 1's example was kept deliberately small so the tool/selector boundary
    remains visible.
 3. Week 2 parsing was split into helpers for money, city, property type, and
