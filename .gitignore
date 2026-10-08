@@ -1,5 +1,11 @@
 .env
 venv/
-openclaw/
+/openclaw/
+node_modules/
+.sessions/
+dist/
+coverage/
 __pycache__/
 *.pyc
+document/
+*-openclaw-backup.tar.gz
