@@ -1,8 +1,5 @@
 # IDX Exchange Agentic AI
 
-Weeks 1–4 deliverables from the **AI Agentic Engineer Training Handbook**,
-wired into OpenClaw as a skill that WhatsApp users can talk to.
-
 ## Completed work
 
 - **Week 1:** OpenClaw architecture notes, workflow diagram, and a runnable
